@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🖋️ [voraczech.com](https://voraczech.com)
+
+🤝 TL, Project management
+
+🔭 Vue.js, NuxtJS, JS, TS, Docker, Hasura
+
+🌱 Rust, Neural Networks
+
 <!--
 **voraczech/voraczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
